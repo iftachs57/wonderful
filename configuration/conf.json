@@ -1,0 +1,11 @@
+{
+    "URL_Header":{
+        "Authorization" : "Bearer {API_KEY}",
+        "Content-Type" : "application/json"
+    },
+    "Host_URL" : "api.openai.com",
+    "Scheme_URL" : "wss",
+    "Path_URL" : "/v1/realtime",
+    "Model": "gpt-4o-realtime-preview-2024-12-17",
+    "EnableCompression" : true 
+}
